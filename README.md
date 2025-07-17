@@ -9,6 +9,7 @@ Este repositorio contiene el código fuente completo para un analizador léxico 
 - **Compilador C++:** Se recomienda GCC (g++) o MinGW en Windows.
 - **Sistema Operativo:** Código compatible con Windows, Linux y MacOS.
 - **No se utilizan dependencias externas o librerías adicionales.**
+- **Terminal:** Utilizar powershell para una correcta muestra de mensaje de salida
 
 ---
 
